@@ -45,6 +45,7 @@ transition: background-color 0.3s;
 }
 .dropdown:hover .opcoes {
 display: block;
+position: fixed;
 /*border: 1px solid #135E46;*/
 }
 .opcoes a:hover {
